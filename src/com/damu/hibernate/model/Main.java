@@ -34,7 +34,7 @@ public class Main {
         List l1=query.list();
         
       System.out.println("This is end of method");
-		  System.out.println("This is end of method");
+		  
 		
 		
 
