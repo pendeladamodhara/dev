@@ -37,6 +37,8 @@ public class Main {
 		  
 		     System.out.println("This is end of method");  
 		
+		
+		System.out.println("This is last line");
 
 	}
 
