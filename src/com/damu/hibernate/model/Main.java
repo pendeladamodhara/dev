@@ -14,6 +14,7 @@ public class Main {
         Session session=factory.openSession();
       /*  Student s=(Student)session.get(Student.class, 100);
         System.out.println(s.getSname());
+	System.out.println(s.getSname());
         session.clear();
         try
         {
